@@ -2,9 +2,9 @@
 Hello!
 
 # Get in touch
-    LinkedIn: [https://www.linkedin.com/in/angbur/]
+    LinkedIn: https://www.linkedin.com/in/angbur/
     Github: https://github.com/angbur
-    Web: [https://angbur.github.io/rsschool-cv/cv]
+    Web: https://angbur.github.io/rsschool-cv/cv
     email: agnieszkaburydev@gmail.com
 # Current Project
 
