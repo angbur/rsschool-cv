@@ -1,8 +1,11 @@
 # Profile Info
 Hello!
 
-# Contact Info
-
+# Get in touch
+    LinkedIn: [https://www.linkedin.com/in/angbur/]
+    Github: https://github.com/angbur
+    Web: [https://angbur.github.io/rsschool-cv/cv]
+    email: agnieszkaburydev@gmail.com
 # Current Project
 
 # Others Projects
@@ -10,3 +13,4 @@ Hello!
 # Skills
 
 # Education
+
