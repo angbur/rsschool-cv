@@ -1,17 +1,16 @@
-# Profile Info
+## :blush: Profile Info
 Hello!
 
-# Get in touch
-    - LinkedIn: [linkedin.com/in/angbur/](https://www.linkedin.com/in/angbur)
-    - Github: [github.com/angbur](https://github.com/angbur)
-    - Web: [angbur.github.io/rsschool-cv/cv](https://angbur.github.io/rsschool-cv/cv)
-    - email: agnieszkaburydev@gmail.com
-# Current Project
+## :envelope: Get in touch
+    |- LinkedIn: [linkedin.com/in/angbur/](https://www.linkedin.com/in/angbur)|
+    |- Github: [github.com/angbur](https://github.com/angbur)|
+    |- Web: [angbur.github.io/rsschool-cv/cv](https://angbur.github.io/rsschool-cv/cv)|
+    |- email: agnieszkaburydev@gmail.com|
+## :pushpin: Current Project
 
-# Others Projects
+## :sparkles: Others Projects
+## :clipboard: Skills
 
-# Skills
-
-# Education
+## :mortar_board: Education
 
 
