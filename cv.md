@@ -1,8 +1,7 @@
 
 ![Agnieszka Bury](/assets/img/agnieszkabury.png)
 
-#Agnieszka Bury
-## :blush: Profile Info
+# Agnieszka Bury
 
 Hello! In the past, I`ve worked with Wordpress. Since I became a member of CodersCamp I am totally committed to learning Front-End Development. That's why I joined RSSchool - I am looking forward to new opportunities to improve and perfect my skills and professional qualifications.
 
@@ -19,8 +18,6 @@ If you are interested in collaboration, reach out to me.
 
 ### Wedding Planner Ap
 ...description soon
-Design:
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdvceitZ7BCtavllEeVlqsz%2FE-wedding%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ## :sparkles: Others Projects
 ...soon
