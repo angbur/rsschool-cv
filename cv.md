@@ -1,3 +1,5 @@
+
+![Agnieszka Bury](/assets/img/agnieszkabury.png)
 ## :blush: Profile Info
 
 Hello!
@@ -8,6 +10,7 @@ Hello!
 - Github: [github.com/angbur](https://github.com/angbur)
 - Web: [angbur.github.io/rsschool-cv/cv](https://angbur.github.io/rsschool-cv/cv)
 - email: agnieszkaburydev@gmail.com
+
 ## :pushpin: Current Project
 
 ## :sparkles: Others Projects
@@ -18,6 +21,6 @@ Hello!
 
 - [CodersCamp](https://www.coderscamp.edu.pl/)
 - MA Computer Sciences Speciality Business Information Systems, Wroclaw University of Sciences and Technology 
-- MA Geodesy and Cartography Speciality Geoinfroamtics, Wroclaw University of Environmental and Life Sciences
+- MA Geodesy and Cartography Speciality Geoinformatics, Wroclaw University of Environmental and Life Sciences
 
 
