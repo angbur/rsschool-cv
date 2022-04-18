@@ -1,0 +1,134 @@
+html, body {
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header, footer {
+    display: block;
+    background-color: #fac151;
+    padding: 2rem 3rem;
+    text-align: center;
+}
+h1, h2 {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+h1 {
+    font-size: 2rem;
+}
+h1.title {
+    font-size: 4rem;
+    letter-spacing: 6px;
+    font-weight: 600;
+    margin: 1rem 1rem 0 1rem;
+    padding: 2rem 3rem 0 3rem;
+}
+header h2 {
+    font-size: 1rem;
+    margin: 2rem;
+    letter-spacing: 5px;
+    padding: 0;
+}
+h2 {
+    background-color: #fac151;
+    padding: 1.6rem;
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin: 0;
+}
+h3 {
+    margin: 2rem;
+}
+main, section { 
+    margin: 2rem auto;
+}
+.avatar {
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.box-avatar, .profil-info {
+    display: inline-block;
+    margin: 0 3rem;
+}
+.profil-info {
+    width: 60%;
+}
+.container {
+    width: 970px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    border: 1px solid #fac151;
+}
+p {
+    line-height: 1.6;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+section img {
+    margin: 0 2rem 2rem 2rem;
+    height: 400px;
+}
+section p {
+    margin: 2rem;
+}
+section a {
+    text-decoration: none;
+}
+footer {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+footer img {
+    margin: 0 2rem;
+}
+
+@media only screen and (max-width: 975px) {
+    .container {
+        width: 100vw;
+    }
+    .container {
+        border: none;
+    }
+    h1.title {
+        font-size: 2rem;
+        padding: 0;
+        margin: 0;
+    }
+    header h2 {
+        margin: 2rem 0.6rem;
+    }
+    section img {
+        height: 200px;
+    }
+    main {
+        text-align: center;
+    }
+    .profil-info {
+        width: auto;
+    }
+    footer div {
+        display: flex;
+        flex-direction: row;
+    }
+    footer img {
+        margin: 1rem 1rem 1rem 0;
+    }
+    footer {
+        display: flex;
+        flex-direction: column;
+    }
+  }
+
+@media only screen and (max-width: 440px) {
+    h1.title {
+        font-size: 1rem;
+    }
+}
