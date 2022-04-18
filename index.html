@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet"> 
+    <title>CV</title>
+</head>
+<body>
+    <header>
+        <div>
+            <h1 class="title">agnieszkabury</h1>
+            <h2>JUNIOR FRONTEND DEVELOPER | DESIGNER</h2>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <div class="box-avatar">
+                <img class="avatar" src="assets/img/avatar.jpg" alt="avatar">
+            </div>
+            <div class="profil-info">
+                <p>
+                    Hello! In the past, I`ve worked with Wordpress. Since I became a&nbsp;member of CodersCamp I am totally committed to learning Front-End Development. That's why I joined RSSchool - I am looking forward to new opportunities to improve and perfect my skills and professional qualifications.
+                </p>
+                <p>
+                    If you are interested in collaboration, reach out to me.   
+                </p>  
+            </div>
+        </div>
+    </main>
+    <section id="contact-info">
+        <div class="container">
+            <h2>get in touch</h2>
+            <ul>
+                <li><a href="https://www.linkedin.com/in/angbur" target="_blank">LinkedIn</a></li>
+                <li><a href="https://github.com/angbur" target="_blank">GitHub</a></li>
+                <li>email:  agnieszkaburydev@gmail.com</li>
+            </ul>
+        </div>
+    </section>
+    <section id="current-project">
+        <div class="container">
+            <h2>Current Project</h2>
+            <h3>Wedding App</h3>
+            <img src="assets/img/weddingApp.png" alt="weddingApp">
+            <p>...description soon<br>
+                <a href="https://github.com/AgnieszkaKapelanczyk/CodersCamp2021-2022-WeddingPlannerApp">View project on GitHub</a>
+            </p>
+        </div>
+    </section>
+    <section id="others-projects">
+        <div class="container">
+            <h2>Others Projects</h2>
+            <p>...description soon</p>
+        </div>
+    </section>
+    <section id="skills">
+        <div class="container">
+            <h2>skills</h2>
+            <ul>
+                <li>HTML5,</li>
+                <li>CSS3,</li>
+                <li>Bootstrap, MUI,</li>
+                <li>JavaScript,</li>
+                <li>React JS, Redux,</li>
+                <li>Version control: Git (remote service GitHub),</li>
+                <li>Windows OS, Linux(Ubuntu),</li>
+                <li>Figma,</li>
+                <li>Editors: Sublime, Brackets, VSCode,</li>
+                <li>B2 English (Upper Intermediate).</li>
+            </ul>
+        </div>
+    </section>
+    <section id="code-example">
+        <div class="container">
+            <h2>code example</h2>
+            <pre>
+                <code>
+    function fizzbuzz(n) { 
+        let result = new Array();
+                    
+            for(let i=1; i&le;n ; i++) {
+                let element;
+                            
+                switch (true) {
+                                
+                case (i % 3 === 0 && 
+                      i % 5 === 0) : 
+                    element = 'FizzBuzz';
+                break;
+                                
+                case (i % 3 === 0) : 
+                    element = 'Fizz';
+                break;
+                                
+                case (i % 5 === 0) : 
+                    element = 'Buzz';
+                break;
+                                
+                default: element = i;
+                }
+                result.push(element);
+            }
+        return result;
+    }
+                </code>
+            </pre>
+        </div>
+    </section>
+    <section id="education">
+        <div class="container">
+            <h2>education</h2>
+        <ul>
+            <li><a href="https://rs.school/js-en/" target="_blank">RSSchool</a></li>
+            <li><a href="https://www.coderscamp.edu.pl/" target="_blank">CodersCamp</a></li>
+            <li>MA Computer Sciences Speciality Business Information Systems, Wroclaw University of Sciences and Technology </li>
+            <li>MA Geodesy and Cartography Speciality Geoinformatics, Wroclaw University of Environmental and Life Sciences</li>
+        </ul>
+        </div>
+    </section>
+    <footer>
+        <div>
+            <a href="https://github.com/angbur"> <img src="assets/img/GitHub_Logo.png" alt="RSSchool logo" height="40"></a>
+            <a href="https://rs.school/poland/"> <img src="assets/img/rsschool-logo.svg" alt="RSSchool logo" height="40"></a>
+        </div>
+        <p>© april, 2022 agnieszkabury</p>
+    </footer>
+</body>
+</html>
